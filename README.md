@@ -62,3 +62,7 @@ To build and program the examples, you will need:
 - High‑Endurance Flash (HEF) provides a small area for nonvolatile data storage without external EEPROM.  
 - Some peripherals (e.g., op‑amps, CLC, NCO) require careful configuration—examples in this repo demonstrate recommended initialization sequences.  
 
+
+## Breadboard Example for the Music project
+![Setup_1](https://github.com/user-attachments/assets/da03ee22-ea75-45e6-ac17-d1976d00ce70)
+![Setup_CloseUp](https://github.com/user-attachments/assets/9919d8db-0992-4724-8689-aea0ebabed56)
